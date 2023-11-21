@@ -1,6 +1,4 @@
 function addCard(user) {
-  console.log(user);
-
   // Create the card
   const card = document.createElement("div");
   card.classList.add("user-card");
